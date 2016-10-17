@@ -16,6 +16,7 @@ function repeatStringNumTimes(str, num) {
     } else{
         return "";
     }
+    
 }
 
 console.log(repeatStringNumTimes("abc", 3));
